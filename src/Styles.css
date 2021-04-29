@@ -1,0 +1,27 @@
+.App {
+    display: flex;
+    justify-content: center;
+}
+
+.converter {
+    height: 200px;
+    width: 320px;
+    margin-top: 5rem;
+    padding: 1rem;
+    color: #e8e8e8;
+    border: solid #321f28;
+    background-color: #16697a;
+    border-radius: 1rem;
+}
+
+.input-label {
+    margin-right: 0.5rem;
+    font-size: 23px;
+}
+
+.input-style {
+    color: #fbf6f0;
+    background-color: #0a043c;
+    font-size: 18px;
+    width: 7rem;
+}
